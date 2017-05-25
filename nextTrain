@@ -1,0 +1,3 @@
+
+python $HOME/.termux/tasker/nextTrain.py > /data/data/com.termux/files/home/storage/shared/traintime.txt
+
